@@ -26,3 +26,22 @@ Interesting fact about me: I really like to travel and go on vacations. I'm not 
 	   |    |-- restaurants.csv 
 	   |    |-- main-attractions.csv	
 	```
+
+### Extension
+Create a shell script that generates the skeleton for a new-vacation directory.
+
+The new-vacation directory should have this structure:
+
+```
+«vacation-name»
+|
+|-- summary.txt
+|
++-- photos
+|    
++-- journal
+|    
++-- misc
+|    |-- restaurants.csv 
+|    |-- main-attractions.csv
+```

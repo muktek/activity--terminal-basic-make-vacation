@@ -8,7 +8,8 @@ Interesting fact about me: I really like to travel and go on vacations. I'm not 
 2. Create a directory `basic-terminal`
 3. Navigate inside `basic-terminal`
 4. Create the following folder/file structure:
-	```
+  - 
+  ```
 	+ 2016-08-disney-land
 	   |
 	   |-- summary.txt
@@ -25,7 +26,7 @@ Interesting fact about me: I really like to travel and go on vacations. I'm not 
 	   +-- misc
 	   |    |-- restaurants.csv 
 	   |    |-- main-attractions.csv	
-	```
+  ```
 
 ### Extension
 Create a shell script that generates the skeleton for a new-vacation directory.

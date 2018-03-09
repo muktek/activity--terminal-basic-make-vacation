@@ -8,7 +8,7 @@ Interesting fact about me: I really like to travel and go on vacations. I'm not 
 2. Create a directory `basic-terminal`
 3. Navigate inside `basic-terminal`
 4. Create the following folder/file structure:
-  -
+
   ```
 	+ 2016-08-disney-land
 	   |
@@ -27,6 +27,8 @@ Interesting fact about me: I really like to travel and go on vacations. I'm not 
 	   |    |-- restaurants.csv
 	   |    |-- main-attractions.csv
   ```
+  5. Move the `photos/` directory inside of `journal/` with the `mv` command
+  6. Change the name of `misc` to `miscellaneous`
 
 ### Extension
 Create a shell script that generates the skeleton for a new-vacation directory.
